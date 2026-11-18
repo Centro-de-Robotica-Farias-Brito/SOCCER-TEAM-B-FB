@@ -1,4 +1,4 @@
-# FB Futebol Clube — Team B
+# FB Football Club — Team B
 
 ## RoboCupJunior Soccer Vision 2026
 
